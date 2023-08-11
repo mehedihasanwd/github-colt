@@ -19,3 +19,17 @@ const tagsInString =
 
 const tagsArray = tagsInString.split(" ");
 console.log(tagsArray);
+
+const section_title = "men's apparel";
+
+const toCapitalize = (title) => {
+  const splitedTitle = title.split(" ");
+
+  return `${title.slice(0, 1).toUpperCase()}${splitedTitle[0]
+    .slice(1)
+    .toLowerCase()} ${splitedTitle[1]
+    .slice(0, 1)
+    .toUpperCase()}${splitedTitle[1].slice(1).toLowerCase()}`;
+};
+
+console.log(toCapitalize(section_title));
