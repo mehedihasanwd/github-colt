@@ -63,3 +63,9 @@ git diff commit1..commit2 (See changes of two commit)
 git branch -r (to check the remote branches in our local project)
 
 git push origin main (push to main branch in remote github repo)
+
+git checkout origin/main (To checkout/visit remote repository branch which is not mixed up with local repo)
+
+git fetch origin
+
+git fetch origin main
