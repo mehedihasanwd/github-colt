@@ -69,3 +69,5 @@ git checkout origin/main (To checkout/visit remote repository branch which is no
 git fetch origin
 
 git fetch origin main
+
+git push origin --delete <branch-name> (Delete remote branch)
