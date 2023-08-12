@@ -1,1 +1,2 @@
-1. <a href="https://www.youtube.com/playlist?list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl" target="_blank">Full Stack Army</a>
+1. Full Stack Army - https://www.youtube.com/playlist?list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl
+2. Lama Dev - https://www.youtube.com/watch?v=BCkWFblNLKU
