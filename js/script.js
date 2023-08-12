@@ -35,4 +35,4 @@ const toCapitalize = (title) => {
 console.log(toCapitalize(section_title));
 
 const h1 = document.querySelector(".title");
-h1.innerHTML = "Node.js V20.5";
+h1.innerHTML = "Node.js - V20.5";
