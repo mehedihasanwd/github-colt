@@ -1,0 +1,110 @@
+/** 
+Data Structures:
+01. Arrays
+02. Linked Lists
+03. Trees
+04. Heap / Priority Queue
+05. Hashing
+06. Graphs
+*/
+
+/** 
+Algorithms:
+01. Recursion
+02. Sorting
+03. Binary Search
+04. Backtrackinge
+05. Dynamic Programming
+06. Bit Manipulation
+*/
+
+
+--------------------
+Arrays (DS):
+01. Static Arrays
+02. Dynamic Arrays
+03. Stacks
+04. Kadane's Algorithm (Advanced)
+05. Sliding Window Fixed Size (Advanced)
+06. Sliding Window Variable Size (Advanced)
+07. Two Pointers (Advanced)
+08. Prefix Sums (Advanced)
+
+---------------------
+Linked Lists (DS):
+01. Single Linked Lists
+02. Doubly Linked Lists
+03. Queues
+04. Fast and Slow Pointers (Advanced)
+
+---------------------
+Recursion (Algo):
+01. Factorial
+02. Fibonacci Sequence
+
+---------------------
+Sorting (Algo):
+01. Insertion Sort
+02. Merge Sort
+03. Quick Sort
+04. Bucket Sort
+
+---------------------
+Binary Search (Algo):
+01. Search Array
+02. Search Range
+
+---------------------
+Trees (DS):
+01. Binary Tree
+02. Binary Search Tree
+03. BST Insert and Remove
+04. Depth-First Search
+05. Breadth-First Search
+06. BST Sets and Maps
+07. Trie (Advanced)
+07. Union-Find (Advanced)
+07. Segment Trees (Advanced)
+07. Iterative DFS (Advanced)
+
+---------------------
+Backtracking (Algo):
+01. Tree Maze
+02. Subsets (Advanced)
+03. Combinations (Advanced)
+04. Permutations (Advanced)
+
+---------------------
+Heap / Priority Queue (DS):
+01. Heap Properties
+02. Push and Pop
+03. Heapify
+04. Two Heaps (Advanced)
+
+---------------------
+Hashing (DS):
+01. Hash Usage
+02. Hash Implementation
+
+---------------------
+Graphs (DS):
+01. Intro to Graphs
+02. Matrix DFS
+03. Matrix BFS
+04. Adjacency List
+05. Dijkstra's (Advanced)
+06. Prim's (Advanced)
+07. Krushkal's (Advanced)
+08. Topological Sort (Advanced)
+
+---------------------
+Dynamic Programming (Algo):
+01. Dimension DP
+02. 0 / 1 Knapsack (Advanced)
+03. Unbounded Knapsack (Advanced)
+04. LCS
+05. Palindromes
+
+---------------------
+Bit Manipulation (Algo):
+01. Bit Operation
