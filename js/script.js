@@ -22,17 +22,21 @@ console.log(tagsArray);
 
 const section_title = "men's apparel";
 
+const toConvertStringCase = (splitedTitle) => {
+  return `${splitedTitle.charAt(0).toUpperCase()}${splitedTitle
+    .slice(1)
+    .toLowerCase()}`;
+};
+
 const toCapitalize = (title) => {
   const splitedTitle = title.split(" ");
 
-  return `${title.slice(0, 1).toUpperCase()}${splitedTitle[0]
-    .slice(1)
-    .toLowerCase()} ${splitedTitle[1]
-    .slice(0, 1)
-    .toUpperCase()}${splitedTitle[1].slice(1).toLowerCase()}`;
+  return `${toConvertStringCase(splitedTitle[0])} ${toConvertStringCase(
+    splitedTitle[1]
+  )}`;
 };
 
 console.log(toCapitalize(section_title));
 
 const h1 = document.querySelector(".title");
-h1.innerHTML = "Node.js V20.5";
+h1.innerHTML = "Node.js - V20.5";
