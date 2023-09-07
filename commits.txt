@@ -2,6 +2,7 @@ git stash
 git stash pop
 git stash push -m "message"
 git stash apply
-git stash apply <stash number>
+git stash apply stash@{<stash number>}
 git clear
+git stash drop stash@{<stash number>}
 
