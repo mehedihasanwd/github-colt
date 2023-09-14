@@ -1,8 +1,1 @@
-git stash
-git stash pop
-git stash push -m "message"
-git stash apply
-git stash apply stash@{<stash number>}
-git clear
-git stash drop stash@{<stash number>}
-
+git checkout <commit> -> Checkout a specific commit and it will remove all the changes and commits those were changed or commited after this commit.
